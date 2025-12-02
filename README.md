@@ -1,4 +1,6 @@
-# dridFinancialSystem
+This project is licensed under the CC BY-NC 4.0 License. Commercial use is NOT permitted
+
+# gridFinancialSystem
 A grid page of a financial management application in arabic
 
 card animation
